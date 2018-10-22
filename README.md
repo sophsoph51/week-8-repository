@@ -1,4 +1,4 @@
-## **Lingo**
+## **Lingo** ![logo](https://media.giphy.com/media/g0MkQevkX7SH6/giphy.gif)
 
 Lingo is an open source project focused on creating a better way to learn world languages. It is a Java library for translation and grammar of any language you choose to learn. 
 
