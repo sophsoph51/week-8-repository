@@ -1,4 +1,4 @@
-## **Lingo**
+## **Lingo** ![logo](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjQ3L_A1preAhXH6oMKHa_uBmoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.nuget.org%2Fpackages%2FLingo%2F0.17.0&psig=AOvVaw2D54iDj2plfQAqV5vYseWI&ust=1540319100821492)
 
 Lingo is an open source project focused on creating a better way to learn world languages. It is a Java library for translation and grammar of any language you choose to learn. 
 
